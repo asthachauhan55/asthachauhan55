@@ -1,6 +1,6 @@
 - 👋 Hi, I’m -> @asthachauhan55
-- 👀 I’m interested in -> C++/PYTHON/JAVA/HTML+CSS+JS...
-- 🌱 I’m currently learning -> C++/JAVA
+- 👀 I’m interested in -> MYSQL/C++/PYTHON/JAVA/HTML+CSS+JS...
+- 🌱 I’m currently learning -> Python/C++/JAVA
 - 💞️ I’m looking to collaborate on -> FRONTEND/BACKEND PROJECTS
 - 📫 How to reach me -> asthachauhan55@gmail.com
 
